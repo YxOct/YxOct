@@ -18,7 +18,7 @@ Hi, I'm **YixuanOct**.
 
 ## 💻 Tech Stack
 
-### 📝 Languages
+**📝 Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -27,7 +27,7 @@ Hi, I'm **YixuanOct**.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
-### ⚙️ Frameworks
+**⚙️ Frameworks**
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
@@ -37,7 +37,7 @@ Hi, I'm **YixuanOct**.
   <img src="https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white" alt="Element Plus"/>
 </p>
 
-### 🛠️ Tools
+**🛠️ Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>

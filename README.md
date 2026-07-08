@@ -49,12 +49,12 @@ Hi, I'm **YixuanOct**.
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 Overall Stats
 
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=YxOct&show_icons=true">
     <img
-      width="96%"
+      width="82%"
       alt="GitHub Stats"
       src="https://github-stats-extended.vercel.app/api?username=YxOct&show_icons=true"
     />
@@ -64,14 +64,14 @@ Hi, I'm **YixuanOct**.
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=YxOct&layout=donut&stats_format=bytes">
     <img
-      width="47%"
+      width="40%"
       alt="Top Languages"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=YxOct&layout=donut&stats_format=bytes"
     />
   </a>
   <a href="https://github-stats-extended.vercel.app/api/wakatime?username=YxOct">
     <img
-      width="47%"
+      width="40%"
       alt="WakaTime Stats"
       src="https://github-stats-extended.vercel.app/api/wakatime?username=YxOct"
     />
@@ -80,7 +80,7 @@ Hi, I'm **YixuanOct**.
 
 <p align="center">
   <img
-    width="96%"
+    width="94%"
     alt="GitHub Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=YxOct&theme=minimal&hide_border=true&area=true"
   />
@@ -88,7 +88,7 @@ Hi, I'm **YixuanOct**.
 
 <p align="center">
   <img
-    width="96%"
+    width="94%"
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/YxOct/YxOct/output/github-snake.svg"
   />

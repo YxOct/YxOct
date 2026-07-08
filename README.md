@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="YixuanOct Banner" width="100%">
-</p>
+<img src="./assets/banner.png" alt="YixuanOct Banner" width="100%">
 
 ## 👋 About Me
 
@@ -52,55 +50,34 @@ Hi, I'm **YixuanOct**.
 ## 📊 Overall Stats
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=YxOct&show_icons=true">
-    <img
-      width="82%"
-      alt="GitHub Stats"
-      src="https://github-stats-extended.vercel.app/api?username=YxOct&show_icons=true"
-    />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api?username=YxOct&show_icons=true" alt="GitHub Stats" width="46%" align="top"/>
+  <img width="3%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YxOct&layout=donut&stats_format=bytes" alt="Top Languages" width="46%" align="top"/>
 </p>
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=YxOct&layout=donut&stats_format=bytes">
-    <img
-      width="40%"
-      alt="Top Languages"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=YxOct&layout=donut&stats_format=bytes"
-    />
-  </a>
-  <a href="https://github-stats-extended.vercel.app/api/wakatime?username=YxOct">
-    <img
-      width="40%"
-      alt="WakaTime Stats"
-      src="https://github-stats-extended.vercel.app/api/wakatime?username=YxOct"
-    />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=YxOct" alt="WakaTime Stats" width="46%" align="top"/>
+  <img width="3%">
+  <img width="46%"/>
 </p>
 
 <p align="center">
-  <img
-    width="94%"
-    alt="GitHub Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YxOct&theme=minimal&hide_border=true&area=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YxOct&theme=minimal&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%"/>
 </p>
 
 <p align="center">
-  <img
-    width="94%"
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/YxOct/YxOct/output/github-snake.svg"
-  />
+  <img src="https://raw.githubusercontent.com/YxOct/YxOct/output/github-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
+</p>
+
+<p align="center">
+  <b>YixuanOct's Profile Views</b>
+  <img src="https://count.getloli.com/@YxOct?name=YxOct&theme=booru-ve&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Counter" width="95%">
 </p>
 
 ## 📫 Contact
 
 <p>
   <a href="mailto:yixuanoct@gmail.com">
-    <img
-      alt="Gmail"
-      src="https://img.shields.io/badge/yixuanoct%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/yixuanoct%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>

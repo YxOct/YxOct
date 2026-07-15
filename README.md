@@ -77,7 +77,7 @@ Hi, I'm **YixuanOct**.
 ## 📫 Contact
 
 <p>
-  <a href="mailto:yixuanoct@gmail.com">
-    <img src="https://img.shields.io/badge/yixuanoct%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:contact@yxoct.com">
+    <img src="https://img.shields.io/badge/contact%40yxoct.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>

@@ -12,8 +12,6 @@ Hi, I'm **YixuanOct**.
 
 🚀 Currently building my personal website.
 
-🎮 Enjoy maimai DX & Honkai: Star Rail.
-
 ## 💻 Tech Stack
 
 **📝 Languages**

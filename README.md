@@ -48,13 +48,13 @@ Hi, I'm **YixuanOct**.
 ## 📊 Overall Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=YxOct&show_icons=true" alt="GitHub Stats" width="46%" align="top"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=YxOct&show_icons=true&v=2" alt="GitHub Stats" width="46%" align="top"/>
   <img width="3%">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YxOct&layout=donut&stats_format=bytes" alt="Top Languages" width="46%" align="top"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YxOct&layout=donut&stats_format=bytes&v=2" alt="Top Languages" width="46%" align="top"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=YxOct" alt="WakaTime Stats" width="46%" align="top"/>
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=YxOct&v=2" alt="WakaTime Stats" width="46%" align="top"/>
   <img width="3%">
   <img width="46%"/>
 </p>
